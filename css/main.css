@@ -1,0 +1,102 @@
+@charset "UTF-8";
+
+#container {
+  width: 905px;
+  margin: 0 auto;
+}
+
+body {
+  font-family: 'Fira Sans', sans-serif;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 30px;
+  color: #b37d59;
+  letter-spacing: 1px;
+  margin: 8px 0;
+}
+
+h3 {
+  font-weight: 700;
+  font-size: 14px;
+  color: #738152;
+}
+
+p {
+  color: #6b6b69;
+  font-size: 17px;
+  line-height: 25px;
+  font-weight: 300;
+}
+
+.highlight {
+  font-style: italic;
+  font-weight: 700;
+}
+.hidden {
+  display: none;
+}
+
+.dropCap {
+  font-size: 100px;
+  font-weight: 400;
+  line-height: 70px;
+  float: left;
+  margin: 5px 10px 0px 0px;
+}
+
+.floatImg {
+  float: none;
+  padding: 0;
+  margin-bottom: 60px;
+}
+
+.floatImgLeft {
+  float: left;
+  padding: 0;
+  margin-right: 20px;
+  margin-top: 60px;
+}
+.floatImgLeft1 {
+  float: left;
+  padding: 0;
+  margin-right: 20px;
+  margin-bottom: 60px;
+}
+
+.floatImgR {
+  float: left;
+  padding: 0;
+  margin-right: 20px;
+  margin-top: 60px;
+}
+
+.greenHar {
+  margin-top: 60px;
+}
+
+figure, figcaption {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+figcaption {
+  font-size: 14px;
+  font-weight: 300;
+  font-style: italic;
+  letter-spacing: 1px;
+  color: #666
+}
+
+.p2 {
+  margin-bottom: 60px;
+}
+
+.p3, .conclusions, .centerp {
+  text-align: center;
+}
+.p3 {
+  margin-bottom: 60px;
+}
